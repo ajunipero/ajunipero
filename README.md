@@ -22,9 +22,21 @@
 
 <h3 align="center">Sobre mim 💜</h3>
 
-<p align="center">
-  Oi, eu sou a <b>Juliana</b>, tenho 20 anos e estudo <b>Engenharia de Software</b> na <b>Universidade de Brasília (UnB)</b>. Gosto de transformar dados e ideias em soluções que funcionam e que sejam agradáveis de usar. Tenho experiência com <b>Power BI</b>, <b>Oracle APEX</b>, <b>banco de dados</b> e <b>front-end</b>, e também conheço <b>Java</b>, <b>Python</b>, <b>C</b> e <b>C++</b>. Estou sempre aprendendo e em busca de novos desafios. 🚀
-</p>
+<div align="center">
+
+  <h2>Sobre mim 💜</h2>
+
+  <div max-width="800px">
+    <p>
+      Olá! Sou a <b>Juliana</b>, estudante de <b>Engenharia de Software na UnB</b> e desenvolvedora focada em transformar dados e ideias em aplicações reais, eficientes e bem estruturadas. Atualmente, sou estagiária de desenvolvimento com atuação principal em <b>Oracle (Oracle APEX e Banco de Dados)</b>, além de ter experiência com <b>front-end</b>, <b>Power BI</b> e linguagens como <b>C, C++, Python, Java e HTML</b>. Misturo lógica sólida com boa experiência de usuário para criar soluções funcionais. Estou sempre em busca de novos desafios técnicos e de evolução contínua! 🚀
+    </p>
+  </div>
+
+  <br>
+
+  <h2>Linguagens e tecnologias 💜</h2>
+
+</div>
 
 <h3 align="center">Linguagens e tecnologias 💜</h3>
 
