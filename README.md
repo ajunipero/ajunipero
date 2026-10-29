@@ -20,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/ajunipero/ajunipero/main/hero.svg" alt="Gatinho pixel art dando oi e a mensagem Hello, World!" width="720">
 </p>
 
-<h3 align="center">Sobre mim 💜</h3>
+
 
 <div align="center">
 
